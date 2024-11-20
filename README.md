@@ -1,0 +1,1 @@
+This repository contains my MATLAB implementations of various optimization techniques and methods. Each implementation includes a detailed explanation in a pdf report, code snippets, and example use cases.
